@@ -4,7 +4,7 @@
 - 🌏 I live in Portland, Maine
 - 🌱 I’m currently learning Javascript, React, Tailwind CSS, RTL, Cypress
 - 👯 I’m looking to collaborate on front-end web applications using the JAMstack
-- 💬 Ask me about board games, video games, or my cat Oreo.
+- 💬 Ask me about JS, React
 - 📫 How to reach me: [@frvncisc__o](https://twitter.com/frvncisc__o)
 - 😄 Pronouns: he/him
 
