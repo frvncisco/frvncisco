@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi, I'm Francisco Santana ✨</h1>
-<h4 align="center"><a href="https://www.linkedin.com/in/santanafrancisco/">LinkedIn</a> &bull;<!--&bull; <a href="https://twitch.tv/">Twitch</a> &bull; <a href="">Blog</a> &bull; <a href="https://dev.to/philnash">DEV</a> &bull; &bull; <a href="https://stackoverflow.com/">Stack Overflow</a>--></h4>
+<h4 align="center"><a href="https://www.linkedin.com/in/santanafrancisco/">LinkedIn</a> <!--&bull; <a href="https://twitch.tv/">Twitch</a> &bull; <a href="">Blog</a> &bull; <a href="https://dev.to/philnash">DEV</a> &bull; &bull; <a href="https://stackoverflow.com/">Stack Overflow</a>--></h4>
 
 - 🌏 I live in Atlanta, GA
 - 🌱 I’m currently learning Typescript, React
