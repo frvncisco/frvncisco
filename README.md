@@ -5,8 +5,9 @@
 - 🌱 I’m currently learning Typescript, React
 - 👯 I’m looking to collaborate on front-end web applications using the JAMstack
 - 💬 Ask me about JS, React
+- - 😄 Pronouns: he/him
 <!-- - 📫 How to reach me: [@frvncisc__o](https://twitter.com/frvncisc__o) -->
-- 😄 Pronouns: he/him
+
 
 <!--
 **frvncisco/frvncisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
